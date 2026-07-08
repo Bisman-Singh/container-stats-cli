@@ -62,3 +62,5 @@ postgres-db          1a2b3c4d5e6f   8.75     512.00 MB / 4.00 GB    12.50    23.
 - Access to the Docker socket (typically requires root or docker group membership)
 
 
+
+<sub><sup>Originally developed and tested locally during learning. Later organized and pushed to GitHub for portfolio visibility.</sup></sub>
